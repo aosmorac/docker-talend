@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_3FQiiUVJEeexf-kPACKN4g" id="_3FPUYEVJEeexf-kPACKN4g" label="GeoLite2-Country-Locations-es" purpose="Datos de Country locations es" description="Información de datos de country locations en español con fuente de geonames." version="0.1" statusCode="" item="_3FQii0VJEeexf-kPACKN4g" displayName="GeoLite2-Country-Locations-es">
+    <author href="../../../talend.project#_Lo0pIkFYEeeOpq7HKNT9rg"/>
+    <additionalProperties xmi:id="_gvNnEIkNEei90akLwMiaMg" key="created_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_gvNnEYkNEei90akLwMiaMg" key="created_product_version" value="6.1.2.20160912_1228"/>
+    <additionalProperties xmi:id="_gvNnEokNEei90akLwMiaMg" key="created_date" value="2017-05-30T10:08:38.951-0500"/>
+    <additionalProperties xmi:id="_gvNnE4kNEei90akLwMiaMg" key="modified_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_gvNnFIkNEei90akLwMiaMg" key="modified_product_version" value="6.1.2.20160912_1228"/>
+    <additionalProperties xmi:id="_gvNnFYkNEei90akLwMiaMg" key="modified_date" value="2017-05-30T10:06:09.149-0500"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_3FQiikVJEeexf-kPACKN4g" path="GEONAMES"/>
+  <TalendProperties:DelimitedFileConnectionItem xmi:id="_3FQii0VJEeexf-kPACKN4g" property="_3FQiiUVJEeexf-kPACKN4g" state="_3FQiikVJEeexf-kPACKN4g">
+    <connection href="GeoLite2-Country-Locations-es_0.1.item#_3FQigEVJEeexf-kPACKN4g"/>
+  </TalendProperties:DelimitedFileConnectionItem>
+</xmi:XMI>

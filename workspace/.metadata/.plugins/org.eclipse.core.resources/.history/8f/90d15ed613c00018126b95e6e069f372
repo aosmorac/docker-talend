@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_1GNt8M3dEeSPoOhP2Gltkw" id="_1GLRsM3dEeSPoOhP2Gltkw" label="colegios_icfes" purpose="base de datos de colegios del icfes" description="carga los colegios tal  como los da el icfes" version="0.1" statusCode="DEV" item="_1GNt8s3dEeSPoOhP2Gltkw" displayName="colegios_icfes">
+    <author href="../talend.project#_YTjakqL1EeOqbp7w959yow"/>
+    <additionalProperties xmi:id="_zmvBAMATEeiCVKXJwn1YZw" key="created_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_zmvBAcATEeiCVKXJwn1YZw" key="created_product_version" value="6.1.2.20160912_1228"/>
+    <additionalProperties xmi:id="_zmvBAsATEeiCVKXJwn1YZw" key="created_date" value="2015-03-19T02:15:36.269+0000"/>
+    <additionalProperties xmi:id="_zmvBA8ATEeiCVKXJwn1YZw" key="modified_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_zmvBBMATEeiCVKXJwn1YZw" key="modified_product_version" value="6.1.2.20160912_1228"/>
+    <additionalProperties xmi:id="_zmvBBcATEeiCVKXJwn1YZw" key="modified_date" value="2015-11-21T01:46:07.338+0000"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_1GNt8c3dEeSPoOhP2Gltkw" path=""/>
+  <TalendProperties:ProcessItem xmi:id="_1GNt8s3dEeSPoOhP2Gltkw" property="_1GNt8M3dEeSPoOhP2Gltkw" state="_1GNt8c3dEeSPoOhP2Gltkw">
+    <process href="colegios_icfes_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

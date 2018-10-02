@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_UsdvsHa8Eea_a-pnSU8NzQ" id="_UsbTcHa8Eea_a-pnSU8NzQ" label="cohorte_estados" version="0.1" statusCode="" item="_Usdvsna8Eea_a-pnSU8NzQ" displayName="cohorte_estados">
+    <author href="../../talend.project#_IVQlkINgEeWQnZvn-Dmq4g"/>
+    <additionalProperties xmi:id="_zskjQMATEeiCVKXJwn1YZw" key="created_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_zskjQcATEeiCVKXJwn1YZw" key="created_product_version" value="6.1.2.20160912_1228"/>
+    <additionalProperties xmi:id="_zskjQsATEeiCVKXJwn1YZw" key="created_date" value="2016-09-09T18:36:29.610+0000"/>
+    <additionalProperties xmi:id="_zskjQ8ATEeiCVKXJwn1YZw" key="modified_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_zskjRMATEeiCVKXJwn1YZw" key="modified_product_version" value="6.1.2.20160912_1228"/>
+    <additionalProperties xmi:id="_zskjRcATEeiCVKXJwn1YZw" key="modified_date" value="2016-09-26T20:44:06.884+0000"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_UsdvsXa8Eea_a-pnSU8NzQ" path="desercion"/>
+  <TalendProperties:ProcessItem xmi:id="_Usdvsna8Eea_a-pnSU8NzQ" property="_UsdvsHa8Eea_a-pnSU8NzQ" state="_UsdvsXa8Eea_a-pnSU8NzQ">
+    <process href="cohorte_estados_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

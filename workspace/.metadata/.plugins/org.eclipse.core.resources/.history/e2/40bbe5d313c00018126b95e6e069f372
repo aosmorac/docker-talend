@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_b16rALosEeSyUNDEteGPlA" id="_b15c4LosEeSyUNDEteGPlA" label="Misak" version="0.1" statusCode="" item="_b16rArosEeSyUNDEteGPlA" displayName="Misak">
+    <author href="../talend.project#_YTjakqL1EeOqbp7w959yow"/>
+    <additionalProperties xmi:id="_zc4hcMATEeiCVKXJwn1YZw" key="created_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_zc4hccATEeiCVKXJwn1YZw" key="created_product_version" value="6.1.2.20160912_1228"/>
+    <additionalProperties xmi:id="_zc4hcsATEeiCVKXJwn1YZw" key="created_date" value="2015-02-22T00:47:53.775+0000"/>
+    <additionalProperties xmi:id="_zc4hc8ATEeiCVKXJwn1YZw" key="modified_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_zc4hdMATEeiCVKXJwn1YZw" key="modified_product_version" value="6.1.2.20160912_1228"/>
+    <additionalProperties xmi:id="_zc4hdcATEeiCVKXJwn1YZw" key="modified_date" value="2015-11-05T01:54:24.334+0000"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_b16rAbosEeSyUNDEteGPlA" path="" locked="true" lockDate="2015-12-17T23:47:38.837+0000">
+    <locker href="../talend.project#_IVQlkINgEeWQnZvn-Dmq4g"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:ProcessItem xmi:id="_b16rArosEeSyUNDEteGPlA" property="_b16rALosEeSyUNDEteGPlA" state="_b16rAbosEeSyUNDEteGPlA">
+    <process href="Misak_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

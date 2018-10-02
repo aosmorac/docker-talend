@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_S-ScsOxMEeOJG-zVQ5Esdg" id="_S-R1oOxMEeOJG-zVQ5Esdg" label="primiparos" version="0.1" statusCode="" item="_S-ScsuxMEeOJG-zVQ5Esdg" displayName="primiparos">
+    <author href="../../talend.project#_YTjakqL1EeOqbp7w959yow"/>
+    <additionalProperties xmi:id="_z9QDkMATEeiCVKXJwn1YZw" key="created_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_z9QDkcATEeiCVKXJwn1YZw" key="created_product_version" value="6.1.2.20160912_1228"/>
+    <additionalProperties xmi:id="_z9QDksATEeiCVKXJwn1YZw" key="created_date" value="2014-06-05T00:56:58.619+0000"/>
+    <additionalProperties xmi:id="_z9QDk8ATEeiCVKXJwn1YZw" key="modified_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_z9QDlMATEeiCVKXJwn1YZw" key="modified_product_version" value="6.1.2.20160912_1228"/>
+    <additionalProperties xmi:id="_z9QDlcATEeiCVKXJwn1YZw" key="modified_date" value="2016-09-16T00:29:31.127+0000"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_S-ScsexMEeOJG-zVQ5Esdg" path="proyectos_curriculares"/>
+  <TalendProperties:ProcessItem xmi:id="_S-ScsuxMEeOJG-zVQ5Esdg" property="_S-ScsOxMEeOJG-zVQ5Esdg" state="_S-ScsexMEeOJG-zVQ5Esdg">
+    <process href="primiparos_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

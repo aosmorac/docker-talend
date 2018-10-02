@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_0cF50OugEeS0nd40dkszbQ" id="_0b9-AOugEeS0nd40dkszbQ" label="mineria" version="0.1" statusCode="" item="_0cF50uugEeS0nd40dkszbQ" displayName="mineria">
+    <author href="../talend.project#_YTjakqL1EeOqbp7w959yow"/>
+    <additionalProperties xmi:id="_z5m5sMATEeiCVKXJwn1YZw" key="created_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_z5m5scATEeiCVKXJwn1YZw" key="created_product_version" value="6.1.2.20160912_1228"/>
+    <additionalProperties xmi:id="_z5m5ssATEeiCVKXJwn1YZw" key="created_date" value="2015-04-25T23:14:27.432+0000"/>
+    <additionalProperties xmi:id="_z5m5s8ATEeiCVKXJwn1YZw" key="modified_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_z5m5tMATEeiCVKXJwn1YZw" key="modified_product_version" value="6.1.2.20160912_1228"/>
+    <additionalProperties xmi:id="_z5m5tcATEeiCVKXJwn1YZw" key="modified_date" value="2015-11-05T01:54:31.164+0000"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_0cF50eugEeS0nd40dkszbQ" path="" locked="true" lockDate="2015-11-05T01:30:48.213+0000">
+    <locker href="../talend.project#_YTjakqL1EeOqbp7w959yow"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:ProcessItem xmi:id="_0cF50uugEeS0nd40dkszbQ" property="_0cF50OugEeS0nd40dkszbQ" state="_0cF50eugEeS0nd40dkszbQ">
+    <process href="mineria_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

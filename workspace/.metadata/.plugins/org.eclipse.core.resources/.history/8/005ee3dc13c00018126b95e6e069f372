@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_VJpLACNNEeWRWckceFBtTQ" id="__RZK4COEEeWRWckceFBtTQ" label="op_reintegros_angelica" version="0.1" statusCode="" item="_VJpLAiNNEeWRWckceFBtTQ" displayName="op_reintegros_angelica">
+    <author href="../talend.project#_YTjakqL1EeOqbp7w959yow"/>
+    <additionalProperties xmi:id="_z8GNAMATEeiCVKXJwn1YZw" key="created_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_z8GNAcATEeiCVKXJwn1YZw" key="created_product_version" value="6.1.2.20160912_1228"/>
+    <additionalProperties xmi:id="_z8GNAsATEeiCVKXJwn1YZw" key="created_date" value="2015-07-05T19:37:54.352+0000"/>
+    <additionalProperties xmi:id="_z8GNA8ATEeiCVKXJwn1YZw" key="modified_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_z8GNBMATEeiCVKXJwn1YZw" key="modified_product_version" value="6.1.2.20160912_1228"/>
+    <additionalProperties xmi:id="_z8GNBcATEeiCVKXJwn1YZw" key="modified_date" value="2017-01-12T00:39:06.605+0000"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="__R0osCOEEeWRWckceFBtTQ" path=""/>
+  <TalendProperties:ProcessItem xmi:id="_VJpLAiNNEeWRWckceFBtTQ" property="_VJpLACNNEeWRWckceFBtTQ" state="__R0osCOEEeWRWckceFBtTQ">
+    <process href="op_reintegros_angelica_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

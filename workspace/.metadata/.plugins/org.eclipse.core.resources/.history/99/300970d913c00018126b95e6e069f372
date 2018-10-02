@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_A3M-oLyZEeSxss074PM29A" id="_A3LwgLyZEeSxss074PM29A" label="estudiantes_consolidado_desercion" version="0.1" statusCode="" item="_A3M-oryZEeSxss074PM29A" displayName="estudiantes_consolidado_desercion">
+    <author href="../talend.project#_YTjakqL1EeOqbp7w959yow"/>
+    <additionalProperties xmi:id="_zxjJ4MATEeiCVKXJwn1YZw" key="created_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_zxjJ4cATEeiCVKXJwn1YZw" key="created_product_version" value="6.1.2.20160912_1228"/>
+    <additionalProperties xmi:id="_zxjJ4sATEeiCVKXJwn1YZw" key="created_date" value="2015-02-25T02:50:10.185+0000"/>
+    <additionalProperties xmi:id="_zxjJ48ATEeiCVKXJwn1YZw" key="modified_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_zxjJ5MATEeiCVKXJwn1YZw" key="modified_product_version" value="6.1.2.20160912_1228"/>
+    <additionalProperties xmi:id="_zxjJ5cATEeiCVKXJwn1YZw" key="modified_date" value="2015-11-05T01:54:28.452+0000"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_A3M-obyZEeSxss074PM29A" path=""/>
+  <TalendProperties:ProcessItem xmi:id="_A3M-oryZEeSxss074PM29A" property="_A3M-oLyZEeSxss074PM29A" state="_A3M-obyZEeSxss074PM29A">
+    <process href="estudiantes_consolidado_desercion_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

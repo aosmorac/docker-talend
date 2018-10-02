@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_WlIb4M56EeSPoOhP2Gltkw" id="_WlHNwM56EeSPoOhP2Gltkw" label="cantidadfacultadesdocente" version="0.1" statusCode="" item="_WlIb4s56EeSPoOhP2Gltkw" displayName="cantidadfacultadesdocente">
+    <author href="../talend.project#_YTjakqL1EeOqbp7w959yow"/>
+    <additionalProperties xmi:id="_zmE5sMATEeiCVKXJwn1YZw" key="created_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_zmE5scATEeiCVKXJwn1YZw" key="created_product_version" value="6.1.2.20160912_1228"/>
+    <additionalProperties xmi:id="_zmE5ssATEeiCVKXJwn1YZw" key="created_date" value="2015-03-19T20:56:02.462+0000"/>
+    <additionalProperties xmi:id="_zmE5s8ATEeiCVKXJwn1YZw" key="modified_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_zmE5tMATEeiCVKXJwn1YZw" key="modified_product_version" value="6.1.2.20160912_1228"/>
+    <additionalProperties xmi:id="_zmE5tcATEeiCVKXJwn1YZw" key="modified_date" value="2015-11-05T01:54:25.317+0000"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_WlIb4c56EeSPoOhP2Gltkw" path=""/>
+  <TalendProperties:ProcessItem xmi:id="_WlIb4s56EeSPoOhP2Gltkw" property="_WlIb4M56EeSPoOhP2Gltkw" state="_WlIb4c56EeSPoOhP2Gltkw">
+    <process href="cantidadfacultadesdocente_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

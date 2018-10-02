@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_CTaHUJJHEeWbBrbIuvSjgw" id="_CTXEAJJHEeWbBrbIuvSjgw" label="aspirantes_reingresos" version="0.1" statusCode="" item="_CTauYJJHEeWbBrbIuvSjgw" displayName="aspirantes_reingresos">
+    <author href="../../talend.project#_IVQlkINgEeWQnZvn-Dmq4g"/>
+    <additionalProperties xmi:id="_zhwaYMATEeiCVKXJwn1YZw" key="created_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_zhwaYcATEeiCVKXJwn1YZw" key="created_product_version" value="6.1.2.20160912_1228"/>
+    <additionalProperties xmi:id="_zhwaYsATEeiCVKXJwn1YZw" key="created_date" value="2015-11-24T01:02:29.956+0000"/>
+    <additionalProperties xmi:id="_zhwaY8ATEeiCVKXJwn1YZw" key="modified_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_zhwaZMATEeiCVKXJwn1YZw" key="modified_product_version" value="6.1.2.20160912_1228"/>
+    <additionalProperties xmi:id="_zhwaZcATEeiCVKXJwn1YZw" key="modified_date" value="2017-04-30T18:46:47.747+0000"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_CTaHUZJHEeWbBrbIuvSjgw" path="admisiones"/>
+  <TalendProperties:ProcessItem xmi:id="_CTauYJJHEeWbBrbIuvSjgw" property="_CTaHUJJHEeWbBrbIuvSjgw" state="_CTaHUZJHEeWbBrbIuvSjgw">
+    <process href="aspirantes_reingresos_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

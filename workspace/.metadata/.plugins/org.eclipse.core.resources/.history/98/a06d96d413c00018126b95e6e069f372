@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_HH5AAO_UEead-vTPa9D76w" id="_HH3K0O_UEead-vTPa9D76w" label="admisiones_colegios" version="0.1" statusCode="" item="_HH5AAu_UEead-vTPa9D76w" displayName="admisiones_colegios">
+    <author href="../../talend.project#_IVQlkINgEeWQnZvn-Dmq4g"/>
+    <additionalProperties xmi:id="_zgAG4MATEeiCVKXJwn1YZw" key="created_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_zgAG4cATEeiCVKXJwn1YZw" key="created_product_version" value="6.1.2.20160912_1228"/>
+    <additionalProperties xmi:id="_zgAG4sATEeiCVKXJwn1YZw" key="created_date" value="2017-02-10T21:01:37.151+0000"/>
+    <additionalProperties xmi:id="_zgAt8MATEeiCVKXJwn1YZw" key="modified_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_zgAt8cATEeiCVKXJwn1YZw" key="modified_product_version" value="6.1.2.20160912_1228"/>
+    <additionalProperties xmi:id="_zgAt8sATEeiCVKXJwn1YZw" key="modified_date" value="2017-02-10T21:41:21.212+0000"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_HH5AAe_UEead-vTPa9D76w" path="admisiones"/>
+  <TalendProperties:ProcessItem xmi:id="_HH5AAu_UEead-vTPa9D76w" property="_HH5AAO_UEead-vTPa9D76w" state="_HH5AAe_UEead-vTPa9D76w">
+    <process href="admisiones_colegios_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

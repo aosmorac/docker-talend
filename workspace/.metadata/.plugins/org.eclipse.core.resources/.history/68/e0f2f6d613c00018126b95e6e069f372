@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_ATjoECc3EeanC-oNOzjtgA" id="_ATYo8Cc3EeanC-oNOzjtgA" label="consulta_rector" version="0.1" statusCode="" item="_ATjoEic3EeanC-oNOzjtgA" displayName="consulta_rector">
+    <author href="../talend.project#_IVQlkINgEeWQnZvn-Dmq4g"/>
+    <additionalProperties xmi:id="_zoetcMATEeiCVKXJwn1YZw" key="created_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_zoetccATEeiCVKXJwn1YZw" key="created_product_version" value="6.1.2.20160912_1228"/>
+    <additionalProperties xmi:id="_zoetcsATEeiCVKXJwn1YZw" key="created_date" value="2016-05-31T13:53:07.850+0000"/>
+    <additionalProperties xmi:id="_zoetc8ATEeiCVKXJwn1YZw" key="modified_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_zoetdMATEeiCVKXJwn1YZw" key="modified_product_version" value="6.1.2.20160912_1228"/>
+    <additionalProperties xmi:id="_zoetdcATEeiCVKXJwn1YZw" key="modified_date" value="2016-06-02T18:04:40.228+0000"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_ATjoESc3EeanC-oNOzjtgA" path=""/>
+  <TalendProperties:ProcessItem xmi:id="_ATjoEic3EeanC-oNOzjtgA" property="_ATjoECc3EeanC-oNOzjtgA" state="_ATjoESc3EeanC-oNOzjtgA">
+    <process href="consulta_rector_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

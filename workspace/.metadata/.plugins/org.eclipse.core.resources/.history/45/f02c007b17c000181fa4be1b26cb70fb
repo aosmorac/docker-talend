@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_MsoPgEFYEeeOpq7HKNT9rg" id="_MsnBYEFYEeeOpq7HKNT9rg" label="VerticaMergeUpdate" creationDate="2017-05-25T09:41:12.312-0500" modificationDate="2017-05-25T09:41:12.312-0500" version="0.1" item="_Mso2kEFYEeeOpq7HKNT9rg">
+    <author href="../../../talend.project#_Lo0pIkFYEeeOpq7HKNT9rg"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_MsoPgUFYEeeOpq7HKNT9rg" path="Vertica/system"/>
+  <TalendProperties:SQLPatternItem xmi:id="_Mso2kEFYEeeOpq7HKNT9rg" property="_MsoPgEFYEeeOpq7HKNT9rg" state="_MsoPgUFYEeeOpq7HKNT9rg" system="true" eltName="Vertica">
+    <content href="VerticaMergeUpdate_0.1.item#/"/>
+  </TalendProperties:SQLPatternItem>
+</xmi:XMI>

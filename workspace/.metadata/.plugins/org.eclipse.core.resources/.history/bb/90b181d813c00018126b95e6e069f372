@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_pXjIYM3SEeSOQtNHHo9L6A" id="_pXh6QM3SEeSOQtNHHo9L6A" label="divipola" purpose="carga la divipola de colombia" description="tener la base de datos de la division politica de colombia como la entrega el Dane" version="0.1" statusCode="DEV" item="_pXjIYs3SEeSOQtNHHo9L6A" displayName="divipola">
+    <author href="../talend.project#_YTjakqL1EeOqbp7w959yow"/>
+    <additionalProperties xmi:id="_zu6FkMATEeiCVKXJwn1YZw" key="created_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_zu6FkcATEeiCVKXJwn1YZw" key="created_product_version" value="6.1.2.20160912_1228"/>
+    <additionalProperties xmi:id="_zu6FksATEeiCVKXJwn1YZw" key="created_date" value="2015-03-19T00:55:33.093+0000"/>
+    <additionalProperties xmi:id="_zu6Fk8ATEeiCVKXJwn1YZw" key="modified_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_zu6FlMATEeiCVKXJwn1YZw" key="modified_product_version" value="6.1.2.20160912_1228"/>
+    <additionalProperties xmi:id="_zu6FlcATEeiCVKXJwn1YZw" key="modified_date" value="2015-11-21T01:46:07.146+0000"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_pXjIYc3SEeSOQtNHHo9L6A" path=""/>
+  <TalendProperties:ProcessItem xmi:id="_pXjIYs3SEeSOQtNHHo9L6A" property="_pXjIYM3SEeSOQtNHHo9L6A" state="_pXjIYc3SEeSOQtNHHo9L6A">
+    <process href="divipola_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

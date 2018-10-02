@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_z2HCoEuvEeetZedqoVNifA" id="_z2BjEEuvEeetZedqoVNifA" label="UsuariosYAvancesCapacitacion" version="0.1" statusCode="" item="_z2HCokuvEeetZedqoVNifA" displayName="UsuariosYAvancesCapacitacion">
+    <author href="../../talend.project#_Lo0pIkFYEeeOpq7HKNT9rg"/>
+    <additionalProperties xmi:id="_gxQOcIkNEei90akLwMiaMg" key="created_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_gxQOcYkNEei90akLwMiaMg" key="created_product_version" value="6.1.2.20160912_1228"/>
+    <additionalProperties xmi:id="_gxQOcokNEei90akLwMiaMg" key="created_date" value="2017-06-07T13:33:32.871-0500"/>
+    <additionalProperties xmi:id="_gxQOc4kNEei90akLwMiaMg" key="modified_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_gxQOdIkNEei90akLwMiaMg" key="modified_product_version" value="7.0.1.20180411_1414"/>
+    <additionalProperties xmi:id="_gxQOdYkNEei90akLwMiaMg" key="modified_date" value="2018-09-24T16:35:07.425+0000"/>
+    <additionalProperties xmi:id="_ephqcMAXEeic1_tgS5rStQ" key="import_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_ephqccAXEeic1_tgS5rStQ" key="import_product_version" value="7.0.1.20180411_1414"/>
+    <additionalProperties xmi:id="_ephqcsAXEeic1_tgS5rStQ" key="import_date" value="2018-09-24T16:32:49.934+0000"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_z2HCoUuvEeetZedqoVNifA" path="DWH" locked="true" lockDate="2018-09-24T16:34:27.858+0000">
+    <locker href="../../talend.project#_Lo0pIkFYEeeOpq7HKNT9rg"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:ProcessItem xmi:id="_z2HCokuvEeetZedqoVNifA" property="_z2HCoEuvEeetZedqoVNifA" state="_z2HCoUuvEeetZedqoVNifA">
+    <process href="UsuariosYAvancesCapacitacion_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

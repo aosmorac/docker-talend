@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_TMJW4BJtEeici_AemRG8FA" id="_TL6GUBJtEeici_AemRG8FA" label="MigracionUsuarios" version="0.1" statusCode="" item="_TMJ98BJtEeici_AemRG8FA" displayName="MigracionUsuarios">
+    <author href="../../talend.project#_Lo0pIkFYEeeOpq7HKNT9rg"/>
+    <additionalProperties xmi:id="_g2eFoIkNEei90akLwMiaMg" key="created_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_g2eFoYkNEei90akLwMiaMg" key="created_product_version" value="6.1.2.20160912_1228"/>
+    <additionalProperties xmi:id="_g2eFookNEei90akLwMiaMg" key="created_date" value="2018-02-15T11:28:48.322-0500"/>
+    <additionalProperties xmi:id="_g2eFo4kNEei90akLwMiaMg" key="modified_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_g2eFpIkNEei90akLwMiaMg" key="modified_product_version" value="7.0.1.20180411_1414"/>
+    <additionalProperties xmi:id="_g2eFpYkNEei90akLwMiaMg" key="modified_date" value="2018-07-26T11:16:29.149-0500"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_TMJW4RJtEeici_AemRG8FA" path="OTROS"/>
+  <TalendProperties:ProcessItem xmi:id="_TMJ98BJtEeici_AemRG8FA" property="_TMJW4BJtEeici_AemRG8FA" state="_TMJW4RJtEeici_AemRG8FA">
+    <process href="MigracionUsuarios_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_XRi-QL4ZEeSxss074PM29A" id="_XRhwIL4ZEeSxss074PM29A" label="cruce_encuesta" version="0.1" statusCode="" item="_XRi-Qr4ZEeSxss074PM29A" displayName="cruce_encuesta">
+    <author href="../talend.project#_YTjakqL1EeOqbp7w959yow"/>
+    <additionalProperties xmi:id="_zo8AcMATEeiCVKXJwn1YZw" key="created_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_zo8AccATEeiCVKXJwn1YZw" key="created_product_version" value="6.1.2.20160912_1228"/>
+    <additionalProperties xmi:id="_zo8AcsATEeiCVKXJwn1YZw" key="created_date" value="2015-02-27T00:41:27.331+0000"/>
+    <additionalProperties xmi:id="_zo8Ac8ATEeiCVKXJwn1YZw" key="modified_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_zo8AdMATEeiCVKXJwn1YZw" key="modified_product_version" value="6.1.2.20160912_1228"/>
+    <additionalProperties xmi:id="_zo8AdcATEeiCVKXJwn1YZw" key="modified_date" value="2015-11-05T01:54:26.646+0000"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_XRi-Qb4ZEeSxss074PM29A" path=""/>
+  <TalendProperties:ProcessItem xmi:id="_XRi-Qr4ZEeSxss074PM29A" property="_XRi-QL4ZEeSxss074PM29A" state="_XRi-Qb4ZEeSxss074PM29A">
+    <process href="cruce_encuesta_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

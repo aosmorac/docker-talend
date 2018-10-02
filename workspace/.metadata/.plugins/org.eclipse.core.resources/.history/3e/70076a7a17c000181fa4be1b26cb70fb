@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_CWTRc0u3EeetZedqoVNifA" id="_7odgcEu2EeetZedqoVNifA" label="nutrifami_dwh" version="0.1" statusCode="" item="_CWT4gUu3EeetZedqoVNifA" displayName="nutrifami_dwh">
+    <author href="../../talend.project#_Lo0pIkFYEeeOpq7HKNT9rg"/>
+    <additionalProperties xmi:id="_guvtAIkNEei90akLwMiaMg" key="created_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_guvtAYkNEei90akLwMiaMg" key="created_product_version" value="6.1.2.20160912_1228"/>
+    <additionalProperties xmi:id="_guvtAokNEei90akLwMiaMg" key="created_date" value="2017-06-07T14:25:16.677-0500"/>
+    <additionalProperties xmi:id="_guvtA4kNEei90akLwMiaMg" key="modified_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_guvtBIkNEei90akLwMiaMg" key="modified_product_version" value="6.1.2.20160912_1228"/>
+    <additionalProperties xmi:id="_guvtBYkNEei90akLwMiaMg" key="modified_date" value="2017-08-22T10:21:25.299-0500"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_CWT4gEu3EeetZedqoVNifA" path=""/>
+  <TalendProperties:DatabaseConnectionItem xmi:id="_CWT4gUu3EeetZedqoVNifA" property="_CWTRc0u3EeetZedqoVNifA" state="_CWT4gEu3EeetZedqoVNifA">
+    <connection href="nutrifami_dwh_0.1.item#_CWTRcEu3EeetZedqoVNifA"/>
+  </TalendProperties:DatabaseConnectionItem>
+</xmi:XMI>

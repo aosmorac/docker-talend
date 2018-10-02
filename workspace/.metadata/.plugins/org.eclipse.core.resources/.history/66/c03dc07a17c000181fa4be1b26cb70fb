@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_odLboEVFEeexf-kPACKN4g" id="_odEG4EVFEeexf-kPACKN4g" label="ImportCSVs" purpose="Importar datos" description="Importar los datos desde los archivos csv que entrega GEO Names" version="0.1" statusCode="" item="_odLbokVFEeexf-kPACKN4g" displayName="ImportCSVs">
+    <author href="../../talend.project#_Lo0pIkFYEeeOpq7HKNT9rg"/>
+    <additionalProperties xmi:id="_g1l74IkNEei90akLwMiaMg" key="created_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_g1l74YkNEei90akLwMiaMg" key="created_product_version" value="6.1.2.20160912_1228"/>
+    <additionalProperties xmi:id="_g1l74okNEei90akLwMiaMg" key="created_date" value="2017-05-30T09:38:22.805-0500"/>
+    <additionalProperties xmi:id="_g1l744kNEei90akLwMiaMg" key="modified_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_g1l75IkNEei90akLwMiaMg" key="modified_product_version" value="6.1.2.20160912_1228"/>
+    <additionalProperties xmi:id="_g1l75YkNEei90akLwMiaMg" key="modified_date" value="2017-05-30T10:43:06.072-0500"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_odLboUVFEeexf-kPACKN4g" path="GEONAMES" locked="true" lockDate="2017-05-30T09:43:32.187-0500">
+    <locker href="../../talend.project#_Lo0pIkFYEeeOpq7HKNT9rg"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:ProcessItem xmi:id="_odLbokVFEeexf-kPACKN4g" property="_odLboEVFEeexf-kPACKN4g" state="_odLboUVFEeexf-kPACKN4g">
+    <process href="ImportCSVs_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

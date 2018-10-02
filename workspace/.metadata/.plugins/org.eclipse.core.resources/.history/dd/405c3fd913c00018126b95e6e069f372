@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_k1m5IIcDEeSi1peFzIdwFA" id="_k1kc4IcDEeSi1peFzIdwFA" label="encuesta_ingenieria_civil" version="0.1" statusCode="" item="_k1m5IocDEeSi1peFzIdwFA" displayName="encuesta_ingenieria_civil">
+    <author href="../talend.project#_YTjakqL1EeOqbp7w959yow"/>
+    <additionalProperties xmi:id="_zw8s8MATEeiCVKXJwn1YZw" key="created_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_zw8s8cATEeiCVKXJwn1YZw" key="created_product_version" value="6.1.2.20160912_1228"/>
+    <additionalProperties xmi:id="_zw8s8sATEeiCVKXJwn1YZw" key="created_date" value="2014-12-18T22:16:55.472+0000"/>
+    <additionalProperties xmi:id="_zw8s88ATEeiCVKXJwn1YZw" key="modified_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_zw8s9MATEeiCVKXJwn1YZw" key="modified_product_version" value="6.1.2.20160912_1228"/>
+    <additionalProperties xmi:id="_zw8s9cATEeiCVKXJwn1YZw" key="modified_date" value="2015-11-05T01:54:28.208+0000"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_k1m5IYcDEeSi1peFzIdwFA" path=""/>
+  <TalendProperties:ProcessItem xmi:id="_k1m5IocDEeSi1peFzIdwFA" property="_k1m5IIcDEeSi1peFzIdwFA" state="_k1m5IYcDEeSi1peFzIdwFA">
+    <process href="encuesta_ingenieria_civil_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

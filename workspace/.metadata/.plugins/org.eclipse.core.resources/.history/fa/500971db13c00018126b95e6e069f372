@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_UmrE4LSAEeSue_gQZoTxdw" id="_Umqd0LSAEeSue_gQZoTxdw" label="indice_capacidad" version="0.1" statusCode="" item="_UmrE4rSAEeSue_gQZoTxdw" displayName="indice_capacidad">
+    <author href="../talend.project#_YTjakqL1EeOqbp7w959yow"/>
+    <additionalProperties xmi:id="_z3sOIMATEeiCVKXJwn1YZw" key="created_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_z3sOIcATEeiCVKXJwn1YZw" key="created_product_version" value="6.1.2.20160912_1228"/>
+    <additionalProperties xmi:id="_z3sOIsATEeiCVKXJwn1YZw" key="created_date" value="2015-02-14T19:33:15.950+0000"/>
+    <additionalProperties xmi:id="_z3sOI8ATEeiCVKXJwn1YZw" key="modified_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_z3sOJMATEeiCVKXJwn1YZw" key="modified_product_version" value="6.1.2.20160912_1228"/>
+    <additionalProperties xmi:id="_z3sOJcATEeiCVKXJwn1YZw" key="modified_date" value="2015-11-05T01:54:30.578+0000"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_UmrE4bSAEeSue_gQZoTxdw" path=""/>
+  <TalendProperties:ProcessItem xmi:id="_UmrE4rSAEeSue_gQZoTxdw" property="_UmrE4LSAEeSue_gQZoTxdw" state="_UmrE4bSAEeSue_gQZoTxdw">
+    <process href="indice_capacidad_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

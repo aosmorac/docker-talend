@@ -1,0 +1,9 @@
+version: '2'
+
+services:
+  talend:
+    build:
+      context: ./
+    container_name: talend
+    volumes:
+    - ./workspace:/workspace
